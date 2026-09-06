@@ -9,4 +9,8 @@ public class StudentController {
     public void countStudents() {
         // Sprint 2: Endpoint para contar alumnos
     }
+
+    public void deleteStudent(Long id) {
+        // Sprint 2: Endpoint para eliminar alumno
+    }
 }
