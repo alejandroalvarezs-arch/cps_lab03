@@ -5,4 +5,8 @@ public class StudentController {
     public void controller() {
         // TO DO
     }
+
+    public void deleteStudent(Long id) {
+        // Sprint 2: Endpoint para eliminar alumno
+    }
 }
