@@ -5,4 +5,8 @@ public class StudentController {
     public void controller() {
         // TO DO
     }
+
+    public void countStudents() {
+        // Sprint 2: Endpoint para contar alumnos
+    }
 }
